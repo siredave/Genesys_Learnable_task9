@@ -85,12 +85,6 @@ interface Admin {
 type Person = User | Admin;
 ```
 
-## Contributing
-Feel free to contribute by:
-- Adding new filter functionalities.
-- Improving TypeScript typings.
-- Enhancing documentation.
-
 ## License
 This project is licensed under the **MIT License**.
 
